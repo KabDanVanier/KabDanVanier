@@ -9,7 +9,7 @@ As i mentioned before, I am not an expert- and I mean it. I was introduced to co
 
 I am moving towards this goal and I hope that in the near future my career will be, at least in the minimum, conected with artificial intelligence or big data. 
 
-My favourite things about computer programming are the challeneges I face while writing my code and figuring out how to do things correctly and many other things. 
+My favourite things about computer programming are the challeneges I face while writing my code and figuring out the correct way of doing so. It is very interesting, fun, and I get to work at my own pace and by myself with nobody to bother me. 
 
 My least favourite thing(s) about computer programming are the unnecessary and unintentional mistakes that almost every programmer, me included, makes all the time. They can range from small to big mistakes. The worst kind are small ones because it is almost impossible to notice them. You can be trying to figure out why the program doesn't run for days and weeks and the reason for all that misery could be a missed semicolon. 
 
